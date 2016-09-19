@@ -13,10 +13,15 @@ AZIMUTH
 require latest version:
 
 python-2.7 above
+
 python-matplotlib
+
 python-numpy
+
 python-serial
+
 python-openpyxl
+
 python-datetime
 
 License under GPLv3
