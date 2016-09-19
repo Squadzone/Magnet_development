@@ -6,7 +6,7 @@ Modified by yanuar harry
 signed-off yosi setiawan
 signed-off yanuar harry
 
-License GPL-v2
+License GPLv3
 """
 import sys
 import socket
