@@ -1,0 +1,1 @@
+kasm TUN:18SEP2016:1 300 xy /home/magnettsi/Database/k_harian /home/magnettsi/Database/IMFV/2016/09/
